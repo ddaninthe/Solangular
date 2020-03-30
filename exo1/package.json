@@ -1,0 +1,22 @@
+{
+  "name": "exo1",
+  "version": "1.0.0",
+  "description": "exercice 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddaninthe/Solangular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddaninthe/Solangular/issues"
+  },
+  "homepage": "https://github.com/ddaninthe/Solangular#readme",
+  "dependencies": {
+    "jest": "^25.2.4"
+  }
+}
